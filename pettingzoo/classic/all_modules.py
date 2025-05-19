@@ -4,6 +4,7 @@ from pettingzoo.classic import (
     gin_rummy_v4,
     go_v5,
     hanabi_v5,
+    skull_v0,
     leduc_holdem_v4,
     rps_v2,
     texas_holdem_no_limit_v6,
@@ -22,4 +23,5 @@ classic_environments = {
     "classic/gin_rummy_v4": gin_rummy_v4,
     "classic/go_v5": go_v5,
     "classic/hanabi_v5": hanabi_v5,
+    "classic/skull_v0": skull_v0,
 }
